@@ -1,13 +1,4 @@
 # 👨‍💻 Olá! Eu sou Natanael Mesquita
-
-🎓 Estudante de Informática
-💻 Desenvolvedor em formação
-🚀 Atualmente estudando e desenvolvendo projetos com C# e tecnologias Web.
-
----
-
-## 🚀 Tecnologias
-
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" alt="C#" />
