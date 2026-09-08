@@ -1,4 +1,4 @@
-#Olá! Eu sou Natanael Mesquita
+#Olá! Eu sou Natanael Mesquita, trabalho com as seguintes tecnologias:
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" alt="C#" />
